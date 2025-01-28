@@ -1,0 +1,1 @@
+This repository contains a simple Perl script demonstrating an example of an out-of-bounds array access error. The script attempts to access an array element that does not exist, leading to unpredictable results.  The bugSolution.pl file provides a corrected version.
